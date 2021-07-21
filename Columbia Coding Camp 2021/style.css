@@ -1,0 +1,25 @@
+.swatch {
+    width: 100px;
+    height: 100px;
+}
+.darkblue {
+    background-color:darkblue;
+}
+.darkGrey {
+    background-color: darkgrey
+}
+.lightblue {
+    background-color: lightblue;
+}
+.lightgrey {
+    background-color: lightgrey;
+}
+.red {
+    background-color: red;
+}
+.orange {
+    background-color: orange;
+}
+.lightgreen {
+    background-color: lightgreen;
+}
